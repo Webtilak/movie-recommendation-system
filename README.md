@@ -27,10 +27,6 @@ FlixFinder is a movie recommendation web application that helps users discover p
    ```bash
    cd movie-recommendation-system
    ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
 
 ## Project Structure
 
